@@ -43,7 +43,7 @@ authors:
     given-names: "Wentao"
     orcid: "https://orcid.org/0000-0002-0762-919X"
     affiliation: "Shanghai University; Shanghai Institute for Biomedical and Pharmaceutical Technologies"
-repository-code: "https://github.com/changyufei222/fbbp-db-bioinformatics-release"
+repository-code: "https://github.com/changyufei222/fbbp-db-public-repro"
 url: "https://fbbp.app.bio-it.tech/"
 keywords:
   - "Briefings in Bioinformatics"

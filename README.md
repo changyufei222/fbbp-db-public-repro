@@ -4,6 +4,8 @@ Version: `v20261119`
 
 This package is the public, machine-readable reproducibility layer for FBBP-DB. It is deliberately separate from the private manuscript submission package.
 
+Repository: https://github.com/changyufei222/fbbp-db-public-repro
+
 ## Included
 
 - `Supplementary_Data_1_Field_Level_Data_Dictionary/`: field-level data dictionary.

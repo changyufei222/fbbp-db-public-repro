@@ -7,6 +7,6 @@ doi: "10.5281/zenodo.20626953"
 authors:
   - family-names: "Chang"
     given-names: "Yufei"
-repository-code: "https://github.com/changyufei222/fbbp-db-bioinformatics-release"
+repository-code: "https://github.com/changyufei222/fbbp-db-public-repro"
 url: "https://doi.org/10.5281/zenodo.20626953"
 license: "CC-BY-4.0"

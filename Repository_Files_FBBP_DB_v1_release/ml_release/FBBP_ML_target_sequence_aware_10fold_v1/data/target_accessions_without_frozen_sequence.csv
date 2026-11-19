@@ -1,0 +1,2 @@
+uniprot_accession,retrieval_status,failure_detail,retrieval_date
+Q20BH0,sequence_unavailable_or_retrieval_failed,Invalid FASTA response for Q20BH0,2026-07-16

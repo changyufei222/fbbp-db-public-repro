@@ -2,7 +2,7 @@
 
 This directory is the reproducibility data package for the Briefings in Bioinformatics manuscript:
 
-**FBBP-DB: a family-aware active-loop annotation framework for comparable recognition-region analysis of non-antibody scaffold binders**
+**Large language model-assisted Flexible-Backbone Binding Protein Database (FBBP-DB) and Analysis of Functional Recognition Regions**
 
 Release date: 2026-11-19
 
@@ -16,6 +16,7 @@ Release date: 2026-11-19
 - `analysis/binding_interface/`: strict binding-window/interface residue tables, binding/non-binding statistics, the PCSK9/1459D05 case-study summary, and the complete 4OV6 contact/ASA recomputation folder.
 - `figure_source_data/`: package-relative figure source-data/code manifests, schema/web-resource figure assets, and reproducible Figure S10D source-data plot generation.
 - `code/`: code snippets/scripts located for strict-background, AIR/ALL, binding-interface and website-bundle analyses.
+- `ml_release/`: the complete frozen binder-only and target-aware split objects, derived split views, structure-core coordinates, task cards, audit reports, and source scripts.
 - `build_audit/`: sanitized public build-provenance summary without local absolute paths.
 - `third_party_boundaries/`: redistribution policy for source records, public identifiers, and restricted full-text/raw third-party materials.
 
@@ -35,6 +36,7 @@ Release date: 2026-11-19
 6. `tables/loop_flexibility_public_summary.csv`
 7. `analysis/ANALYSIS_ASSET_STATUS.md`
 8. `build_audit/SANITIZED_BUILD_PROVENANCE.tsv`
+9. `ml_release/ml_release_verified.json`
 
 ## Data dictionary
 
@@ -42,7 +44,7 @@ Release date: 2026-11-19
 
 ## DOI and citation status
 
-The version-resolving concept DOI for this release line is `10.5281/zenodo.20626952`.
+The version DOI for this frozen release is `10.5281/zenodo.24361542`. The concept DOI `10.5281/zenodo.20626952` points to the latest release in this line.
 
 ## Filename hygiene
 

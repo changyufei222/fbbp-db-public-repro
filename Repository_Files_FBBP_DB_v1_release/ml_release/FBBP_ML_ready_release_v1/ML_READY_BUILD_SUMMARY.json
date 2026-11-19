@@ -1,0 +1,58 @@
+{
+  "release_name": "FBBP_ML_ready_release_v1",
+  "binder": {
+    "rows": 1996,
+    "csv": "FBBP_ML_ready_release_v1/binder_full_length_ml_ready_8_1_1_v1.csv",
+    "parquet_written": true,
+    "parquet": "FBBP_ML_ready_release_v1/binder_full_length_ml_ready_8_1_1_v1.parquet"
+  },
+  "target_pair": {
+    "rows": 710,
+    "csv": "FBBP_ML_ready_release_v1/target_sequence_aware_pair_ml_ready_8_1_1_v1.csv",
+    "parquet_written": true,
+    "parquet": "FBBP_ML_ready_release_v1/target_sequence_aware_pair_ml_ready_8_1_1_v1.parquet"
+  },
+  "structure_mapped_95": {
+    "rows": 201,
+    "csv": "FBBP_ML_ready_release_v1/structure_core_mapped_95_ml_ready_8_1_1_v1.csv",
+    "parquet_written": true,
+    "parquet": "FBBP_ML_ready_release_v1/structure_core_mapped_95_ml_ready_8_1_1_v1.parquet"
+  },
+  "structure_exact_sequence": {
+    "rows": 189,
+    "csv": "FBBP_ML_ready_release_v1/structure_core_exact_sequence_ml_ready_8_1_1_v1.csv",
+    "parquet_written": true,
+    "parquet": "FBBP_ML_ready_release_v1/structure_core_exact_sequence_ml_ready_8_1_1_v1.parquet"
+  },
+  "structure_coordinate_manifest": {
+    "rows": 201,
+    "csv": "FBBP_ML_ready_release_v1/structure_core_mapped_95_coordinate_manifest_v1.csv",
+    "parquet_written": true,
+    "parquet": "FBBP_ML_ready_release_v1/structure_core_mapped_95_coordinate_manifest_v1.parquet"
+  },
+  "complex_binder_contact": {
+    "rows": 53,
+    "csv": "FBBP_ML_ready_release_v1/complex_binder_target_contact_ml_ready_8_1_1_v1.csv",
+    "parquet_written": true,
+    "parquet": "FBBP_ML_ready_release_v1/complex_binder_target_contact_ml_ready_8_1_1_v1.parquet"
+  },
+  "complex_window_contact": {
+    "rows": 19,
+    "csv": "FBBP_ML_ready_release_v1/complex_recognition_window_target_contact_ml_ready_8_1_1_v1.csv",
+    "parquet_written": true,
+    "parquet": "FBBP_ML_ready_release_v1/complex_recognition_window_target_contact_ml_ready_8_1_1_v1.parquet"
+  },
+  "coordinate_counts": {
+    "mapped_95_pdb": 201,
+    "exact_sequence_subset": 189,
+    "binder_contact_rows": 53,
+    "window_contact_rows": 19,
+    "unique_complex_assembly_files": 51
+  },
+  "task_boundary": {
+    "binder": "supervised scaffold-family classification is available; binding/non-binding labels are not supplied",
+    "target_pair": "positive curated target associations are available; no validated negative pairs are supplied",
+    "structure": "coordinates are self-contained for the mapped-95 and exact-sequence tiers",
+    "complex": "biological assemblies are self-contained for the 53/19 contact tiers; the 19-record tier is validation-only"
+  }
+}

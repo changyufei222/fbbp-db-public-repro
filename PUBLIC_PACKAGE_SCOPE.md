@@ -1,6 +1,6 @@
 # Public Package Scope
 
-Included: machine-readable data, source data, schemas, analysis and recomputation scripts, manifests, and technical documentation.
+Included: machine-readable data, source data, schemas, analysis and recomputation scripts, the complete frozen ML release, manifests, and technical documentation.
 
 Excluded: cover letter, unsubmitted manuscript, Supplementary Information document, submission-formatted workbook, and rendered manuscript/supplementary figures.
 

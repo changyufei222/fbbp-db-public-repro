@@ -6,6 +6,11 @@ This package is the public, machine-readable reproducibility layer for FBBP-DB. 
 
 Repository: https://github.com/changyufei222/fbbp-db-public-repro
 
+Frozen version DOI: https://doi.org/10.5281/zenodo.24361542
+
+Concept DOI for the latest version in this release line:
+https://doi.org/10.5281/zenodo.20626952
+
 ## Included
 
 - `Supplementary_Data_1_Field_Level_Data_Dictionary/`: field-level data dictionary.
@@ -13,7 +18,7 @@ Repository: https://github.com/changyufei222/fbbp-db-public-repro
 - `Supplementary_Data_3_Method_and_Release_Metadata/`: retrieval, structural, counting, and release metadata.
 - `Supplementary_Data_4_Figure_Source_Data_Code_Manifest/`: figure source data and source-to-analysis mappings, including the reproducible PCSK9/4OV6 case-study data.
 - `Supplementary_Data_5_Key_Source_Data/`: key statistical source tables and summaries.
-- `Repository_Files_FBBP_DB_v1_release/`: database tables, schemas, code, manifests, test data, and release documentation.
+- `Repository_Files_FBBP_DB_v1_release/`: database tables, schemas, code, manifests, test data, release documentation, and the complete frozen ML release.
 - `MANIFEST_SHA256.csv`: checksums for every included file except the manifest itself.
 
 ## Deliberately Excluded

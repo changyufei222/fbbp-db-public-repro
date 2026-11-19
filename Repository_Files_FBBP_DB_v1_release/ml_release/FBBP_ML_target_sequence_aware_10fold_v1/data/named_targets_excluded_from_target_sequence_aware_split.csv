@@ -1,0 +1,113 @@
+resource_record_id,target_variant_id,target_concept_id,uniprot_id,gene_name_species,gene_name,protein_name,species_name,strict_target_key,exclusion_reason
+R0023,TVAR_0004,TGT_0003,,histone H3,histone H3,,,NAME:HISTONE H3|SPECIES:,name_target_unresolved_or_ambiguous
+R0025,TVAR_0005,TGT_0004,,factor VIIa/TF complex,factor VIIa/TF complex,,,NAME:FACTOR VIIA/TF COMPLEX|SPECIES:,name_target_unresolved_or_ambiguous
+R0027,TVAR_0006,TGT_0005,,factor Xa,factor Xa,,,NAME:FACTOR XA|SPECIES:,name_target_unresolved_or_ambiguous
+R0030,TVAR_0007,TGT_0006,,CD28,CD28,,,NAME:CD28|SPECIES:,name_target_unresolved_or_ambiguous
+R0031,TVAR_0007,TGT_0006,,CD28,CD28,,,NAME:CD28|SPECIES:,name_target_unresolved_or_ambiguous
+R0032,TVAR_0007,TGT_0006,,CD28,CD28,,,NAME:CD28|SPECIES:,name_target_unresolved_or_ambiguous
+R0034,TVAR_0007,TGT_0006,,CD28,CD28,,,NAME:CD28|SPECIES:,name_target_unresolved_or_ambiguous
+R0035,TVAR_0007,TGT_0006,,CD28,CD28,,,NAME:CD28|SPECIES:,name_target_unresolved_or_ambiguous
+R0036,TVAR_0007,TGT_0006,,CD28,CD28,,,NAME:CD28|SPECIES:,name_target_unresolved_or_ambiguous
+R0037,TVAR_0007,TGT_0006,,CD28,CD28,,,NAME:CD28|SPECIES:,name_target_unresolved_or_ambiguous
+R0039,TVAR_0010,TGT_0008,,TPO-R,TPO-R,,,NAME:TPO-R|SPECIES:,name_target_unresolved_or_ambiguous
+R0043,TVAR_0005,TGT_0004,,factor VIIa/TF complex,factor VIIa/TF complex,,,NAME:FACTOR VIIA/TF COMPLEX|SPECIES:,name_target_unresolved_or_ambiguous
+R0044,TVAR_0011,TGT_0009,,CD20,CD20,,,NAME:CD20|SPECIES:,name_target_unresolved_or_ambiguous
+R0046,TVAR_0011,TGT_0009,,CD20,CD20,,,NAME:CD20|SPECIES:,name_target_unresolved_or_ambiguous
+R0047,TVAR_0011,TGT_0009,,CD20,CD20,,,NAME:CD20|SPECIES:,name_target_unresolved_or_ambiguous
+R0048,TVAR_0010,TGT_0008,,TPO-R,TPO-R,,,NAME:TPO-R|SPECIES:,name_target_unresolved_or_ambiguous
+R0049,TVAR_0013,TGT_0010,,IL-6,IL-6,,,NAME:IL-6|SPECIES:,name_target_unresolved_or_ambiguous
+R0050,TVAR_0014,TGT_0011,,IL6,IL6,,,NAME:IL6|SPECIES:,name_target_unresolved_or_ambiguous
+R0054,TVAR_0011,TGT_0009,,CD20,CD20,,,NAME:CD20|SPECIES:,name_target_unresolved_or_ambiguous
+R0055,TVAR_0015,TGT_0012,,IGE,IGE,,,NAME:IGE|SPECIES:,name_target_unresolved_or_ambiguous
+R0056,TVAR_0011,TGT_0009,,CD20,CD20,,,NAME:CD20|SPECIES:,name_target_unresolved_or_ambiguous
+R0061,TVAR_0011,TGT_0009,,CD20,CD20,,,NAME:CD20|SPECIES:,name_target_unresolved_or_ambiguous
+R0062,TVAR_0010,TGT_0008,,TPO-R,TPO-R,,,NAME:TPO-R|SPECIES:,name_target_unresolved_or_ambiguous
+R0063,TVAR_0014,TGT_0011,,IL6,IL6,,,NAME:IL6|SPECIES:,name_target_unresolved_or_ambiguous
+R0065,TVAR_0011,TGT_0009,,CD20,CD20,,,NAME:CD20|SPECIES:,name_target_unresolved_or_ambiguous
+R0066,TVAR_0011,TGT_0009,,CD20,CD20,,,NAME:CD20|SPECIES:,name_target_unresolved_or_ambiguous
+R0067,TVAR_0010,TGT_0008,,TPO-R,TPO-R,,,NAME:TPO-R|SPECIES:,name_target_unresolved_or_ambiguous
+R0069,TVAR_0011,TGT_0009,,CD20,CD20,,,NAME:CD20|SPECIES:,name_target_unresolved_or_ambiguous
+R0071,TVAR_0011,TGT_0009,,CD20,CD20,,,NAME:CD20|SPECIES:,name_target_unresolved_or_ambiguous
+R0073,TVAR_0006,TGT_0005,,factor Xa,factor Xa,,,NAME:FACTOR XA|SPECIES:,name_target_unresolved_or_ambiguous
+R0076,TVAR_0011,TGT_0009,,CD20,CD20,,,NAME:CD20|SPECIES:,name_target_unresolved_or_ambiguous
+R0078,TVAR_0014,TGT_0011,,IL6,IL6,,,NAME:IL6|SPECIES:,name_target_unresolved_or_ambiguous
+R0079,TVAR_0011,TGT_0009,,CD20,CD20,,,NAME:CD20|SPECIES:,name_target_unresolved_or_ambiguous
+R0080,TVAR_0011,TGT_0009,,CD20,CD20,,,NAME:CD20|SPECIES:,name_target_unresolved_or_ambiguous
+R0082,TVAR_0020,TGT_0015,,melanocortin receptors,melanocortin receptors,,Homo sapiens,NAME:MELANOCORTIN RECEPTORS|SPECIES:HOMO SAPIENS,name_target_unresolved_or_ambiguous
+R0100,TVAR_0023,TGT_0018,,H3,H3,,,NAME:H3|SPECIES:,name_target_unresolved_or_ambiguous
+R0108,TVAR_0025,TGT_0020,,INTEGRIN,INTEGRIN,,,NAME:INTEGRIN|SPECIES:,name_target_unresolved_or_ambiguous
+R0143,TVAR_0031,TGT_0025,,GAS6,GAS6,,,NAME:GAS6|SPECIES:,name_target_unresolved_or_ambiguous
+R0157,TVAR_0035,TGT_0028,,αvβ3 integrin,αvβ3 integrin,,,NAME:ΑVΒ3 INTEGRIN|SPECIES:,name_target_unresolved_or_ambiguous
+R0163,TVAR_0031,TGT_0025,,GAS6,GAS6,,,NAME:GAS6|SPECIES:,name_target_unresolved_or_ambiguous
+R0166,TVAR_0039,TGT_0031,,integrin alphaVbeta3,integrin alphaVbeta3,,,NAME:INTEGRIN ALPHAVBETA3|SPECIES:,name_target_unresolved_or_ambiguous
+R0175,TVAR_0041,TGT_0033,,Integrin αvβ6,Integrin αvβ6,,,NAME:INTEGRIN ΑVΒ6|SPECIES:,name_target_unresolved_or_ambiguous
+R0177,TVAR_0031,TGT_0025,,GAS6,GAS6,,,NAME:GAS6|SPECIES:,name_target_unresolved_or_ambiguous
+R0179,TVAR_0042,TGT_0034,,integrin alpha v beta 3,integrin alpha v beta 3,,,NAME:INTEGRIN ALPHA V BETA 3|SPECIES:,name_target_unresolved_or_ambiguous
+R0249,TVAR_0049,TGT_0040,,GARA,GARA,,Mycobacterium tuberculosis,NAME:GARA|SPECIES:MYCOBACTERIUM TUBERCULOSIS,name_target_unresolved_or_ambiguous
+R0310,TVAR_0062,TGT_0052,,PSMA,PSMA,,Macaca fascicularis,NAME:PSMA|SPECIES:MACACA FASCICULARIS,name_target_unresolved_or_ambiguous
+R0331,TVAR_0062,TGT_0052,,PSMA,PSMA,,Macaca fascicularis,NAME:PSMA|SPECIES:MACACA FASCICULARIS,name_target_unresolved_or_ambiguous
+R0380,TVAR_0072,TGT_0061,,AMA1,AMA1,,Plasmodium falciparum,NAME:AMA1|SPECIES:PLASMODIUM FALCIPARUM,name_target_unresolved_or_ambiguous
+R0381,TVAR_0072,TGT_0061,,AMA1,AMA1,,Plasmodium falciparum,NAME:AMA1|SPECIES:PLASMODIUM FALCIPARUM,name_target_unresolved_or_ambiguous
+R0383,TVAR_0072,TGT_0061,,AMA1,AMA1,,Plasmodium falciparum,NAME:AMA1|SPECIES:PLASMODIUM FALCIPARUM,name_target_unresolved_or_ambiguous
+R0384,TVAR_0072,TGT_0061,,AMA1,AMA1,,Plasmodium falciparum,NAME:AMA1|SPECIES:PLASMODIUM FALCIPARUM,name_target_unresolved_or_ambiguous
+R0388,TVAR_0075,TGT_0064,,BCR::ABL1,BCR::ABL1,,Homo sapiens,NAME:BCR::ABL1|SPECIES:HOMO SAPIENS,name_target_unresolved_or_ambiguous
+R0389,TVAR_0075,TGT_0064,,BCR::ABL1,BCR::ABL1,,Homo sapiens,NAME:BCR::ABL1|SPECIES:HOMO SAPIENS,name_target_unresolved_or_ambiguous
+R0390,TVAR_0075,TGT_0064,,BCR::ABL1,BCR::ABL1,,Homo sapiens,NAME:BCR::ABL1|SPECIES:HOMO SAPIENS,name_target_unresolved_or_ambiguous
+R0391,TVAR_0075,TGT_0064,,BCR::ABL1,BCR::ABL1,,Homo sapiens,NAME:BCR::ABL1|SPECIES:HOMO SAPIENS,name_target_unresolved_or_ambiguous
+R0487,TVAR_0077,TGT_0066,,MGLUR5,MGLUR5,,,NAME:MGLUR5|SPECIES:,name_target_unresolved_or_ambiguous
+R0527,TVAR_0079,TGT_0068,,GP41,GP41,,HIV-1,NAME:GP41|SPECIES:HIV-1,name_target_unresolved_or_ambiguous
+R0858,TVAR_0092,TGT_0081,,GFP,GFP,,,NAME:GFP|SPECIES:,name_target_unresolved_or_ambiguous
+R0871,TVAR_0094,TGT_0082,,TNF-ALPHA,TNF-ALPHA,,,NAME:TNF-ALPHA|SPECIES:,name_target_unresolved_or_ambiguous
+R0872,TVAR_0095,TGT_0007,,VEGF,VEGF,,,NAME:VEGF|SPECIES:,name_target_unresolved_or_ambiguous
+R0873,TVAR_0095,TGT_0007,,VEGF,VEGF,,,NAME:VEGF|SPECIES:,name_target_unresolved_or_ambiguous
+R0879,TVAR_0097,TGT_0084,,TNF-α,TNF-α,,,NAME:TNF-Α|SPECIES:,name_target_unresolved_or_ambiguous
+R0881,TVAR_0094,TGT_0082,,TNF-ALPHA,TNF-ALPHA,,,NAME:TNF-ALPHA|SPECIES:,name_target_unresolved_or_ambiguous
+R0891,TVAR_0098,TGT_0085,,TRYPSIN,TRYPSIN,,,NAME:TRYPSIN|SPECIES:,name_target_unresolved_or_ambiguous
+R0892,TVAR_0098,TGT_0085,,TRYPSIN,TRYPSIN,,,NAME:TRYPSIN|SPECIES:,name_target_unresolved_or_ambiguous
+R0937,TVAR_0101,TGT_0088,,Histone H3,Histone H3,,,NAME:HISTONE H3|SPECIES:,name_target_unresolved_or_ambiguous
+R0955,TVAR_0106,TGT_0017,,plasma kallikrein,plasma kallikrein,,,NAME:PLASMA KALLIKREIN|SPECIES:,name_target_unresolved_or_ambiguous
+R1039,TVAR_0117,TGT_0101,,Yeast small ubiquitin-related modifier (ySUMO),Yeast small ubiquitin-related modifier (ySUMO),,,NAME:YEAST SMALL UBIQUITIN-RELATED MODIFIER (YSUMO)|SPECIES:,name_target_unresolved_or_ambiguous
+R1040,TVAR_0117,TGT_0101,,Yeast small ubiquitin-related modifier (ySUMO),Yeast small ubiquitin-related modifier (ySUMO),,,NAME:YEAST SMALL UBIQUITIN-RELATED MODIFIER (YSUMO)|SPECIES:,name_target_unresolved_or_ambiguous
+R1041,TVAR_0117,TGT_0101,,Yeast small ubiquitin-related modifier (ySUMO),Yeast small ubiquitin-related modifier (ySUMO),,,NAME:YEAST SMALL UBIQUITIN-RELATED MODIFIER (YSUMO)|SPECIES:,name_target_unresolved_or_ambiguous
+R1089,TVAR_0122,TGT_0106,,Human dermal microvascular endothelial cell (HMVEC),Human dermal microvascular endothelial cell (HMVEC),,,NAME:HUMAN DERMAL MICROVASCULAR ENDOTHELIAL CELL (HMVEC)|SPECIES:,name_target_unresolved_or_ambiguous
+R1348,TVAR_0117,TGT_0101,,Yeast small ubiquitin-related modifier (ySUMO),Yeast small ubiquitin-related modifier (ySUMO),,,NAME:YEAST SMALL UBIQUITIN-RELATED MODIFIER (YSUMO)|SPECIES:,name_target_unresolved_or_ambiguous
+R1367,TVAR_0117,TGT_0101,,Yeast small ubiquitin-related modifier (ySUMO),Yeast small ubiquitin-related modifier (ySUMO),,,NAME:YEAST SMALL UBIQUITIN-RELATED MODIFIER (YSUMO)|SPECIES:,name_target_unresolved_or_ambiguous
+R1368,TVAR_0117,TGT_0101,,Yeast small ubiquitin-related modifier (ySUMO),Yeast small ubiquitin-related modifier (ySUMO),,,NAME:YEAST SMALL UBIQUITIN-RELATED MODIFIER (YSUMO)|SPECIES:,name_target_unresolved_or_ambiguous
+R1378,TVAR_0117,TGT_0101,,Yeast small ubiquitin-related modifier (ySUMO),Yeast small ubiquitin-related modifier (ySUMO),,,NAME:YEAST SMALL UBIQUITIN-RELATED MODIFIER (YSUMO)|SPECIES:,name_target_unresolved_or_ambiguous
+R1379,TVAR_0117,TGT_0101,,Yeast small ubiquitin-related modifier (ySUMO),Yeast small ubiquitin-related modifier (ySUMO),,,NAME:YEAST SMALL UBIQUITIN-RELATED MODIFIER (YSUMO)|SPECIES:,name_target_unresolved_or_ambiguous
+R1380,TVAR_0117,TGT_0101,,Yeast small ubiquitin-related modifier (ySUMO),Yeast small ubiquitin-related modifier (ySUMO),,,NAME:YEAST SMALL UBIQUITIN-RELATED MODIFIER (YSUMO)|SPECIES:,name_target_unresolved_or_ambiguous
+R1382,TVAR_0117,TGT_0101,,Yeast small ubiquitin-related modifier (ySUMO),Yeast small ubiquitin-related modifier (ySUMO),,,NAME:YEAST SMALL UBIQUITIN-RELATED MODIFIER (YSUMO)|SPECIES:,name_target_unresolved_or_ambiguous
+R1389,TVAR_0117,TGT_0101,,Yeast small ubiquitin-related modifier (ySUMO),Yeast small ubiquitin-related modifier (ySUMO),,,NAME:YEAST SMALL UBIQUITIN-RELATED MODIFIER (YSUMO)|SPECIES:,name_target_unresolved_or_ambiguous
+R1391,TVAR_0117,TGT_0101,,Yeast small ubiquitin-related modifier (ySUMO),Yeast small ubiquitin-related modifier (ySUMO),,,NAME:YEAST SMALL UBIQUITIN-RELATED MODIFIER (YSUMO)|SPECIES:,name_target_unresolved_or_ambiguous
+R1392,TVAR_0117,TGT_0101,,Yeast small ubiquitin-related modifier (ySUMO),Yeast small ubiquitin-related modifier (ySUMO),,,NAME:YEAST SMALL UBIQUITIN-RELATED MODIFIER (YSUMO)|SPECIES:,name_target_unresolved_or_ambiguous
+R1393,TVAR_0117,TGT_0101,,Yeast small ubiquitin-related modifier (ySUMO),Yeast small ubiquitin-related modifier (ySUMO),,,NAME:YEAST SMALL UBIQUITIN-RELATED MODIFIER (YSUMO)|SPECIES:,name_target_unresolved_or_ambiguous
+R1394,TVAR_0117,TGT_0101,,Yeast small ubiquitin-related modifier (ySUMO),Yeast small ubiquitin-related modifier (ySUMO),,,NAME:YEAST SMALL UBIQUITIN-RELATED MODIFIER (YSUMO)|SPECIES:,name_target_unresolved_or_ambiguous
+R1395,TVAR_0117,TGT_0101,,Yeast small ubiquitin-related modifier (ySUMO),Yeast small ubiquitin-related modifier (ySUMO),,,NAME:YEAST SMALL UBIQUITIN-RELATED MODIFIER (YSUMO)|SPECIES:,name_target_unresolved_or_ambiguous
+R1396,TVAR_0117,TGT_0101,,Yeast small ubiquitin-related modifier (ySUMO),Yeast small ubiquitin-related modifier (ySUMO),,,NAME:YEAST SMALL UBIQUITIN-RELATED MODIFIER (YSUMO)|SPECIES:,name_target_unresolved_or_ambiguous
+R1397,TVAR_0117,TGT_0101,,Yeast small ubiquitin-related modifier (ySUMO),Yeast small ubiquitin-related modifier (ySUMO),,,NAME:YEAST SMALL UBIQUITIN-RELATED MODIFIER (YSUMO)|SPECIES:,name_target_unresolved_or_ambiguous
+R1398,TVAR_0117,TGT_0101,,Yeast small ubiquitin-related modifier (ySUMO),Yeast small ubiquitin-related modifier (ySUMO),,,NAME:YEAST SMALL UBIQUITIN-RELATED MODIFIER (YSUMO)|SPECIES:,name_target_unresolved_or_ambiguous
+R1399,TVAR_0117,TGT_0101,,Yeast small ubiquitin-related modifier (ySUMO),Yeast small ubiquitin-related modifier (ySUMO),,,NAME:YEAST SMALL UBIQUITIN-RELATED MODIFIER (YSUMO)|SPECIES:,name_target_unresolved_or_ambiguous
+R1401,TVAR_0117,TGT_0101,,Yeast small ubiquitin-related modifier (ySUMO),Yeast small ubiquitin-related modifier (ySUMO),,,NAME:YEAST SMALL UBIQUITIN-RELATED MODIFIER (YSUMO)|SPECIES:,name_target_unresolved_or_ambiguous
+R1532,TVAR_0157,TGT_0141,,Pb peptide,Pb peptide,,,NAME:PB PEPTIDE|SPECIES:,name_target_unresolved_or_ambiguous
+R1535,TVAR_0158,TGT_0142,,Pa peptide,Pa peptide,,,NAME:PA PEPTIDE|SPECIES:,name_target_unresolved_or_ambiguous
+R1547,TVAR_0158,TGT_0142,,Pa peptide,Pa peptide,,,NAME:PA PEPTIDE|SPECIES:,name_target_unresolved_or_ambiguous
+R1608,TVAR_0168,TGT_0152,,Staphylococcus aureus leukocidin,Staphylococcus aureus leukocidin,,,NAME:STAPHYLOCOCCUS AUREUS LEUKOCIDIN|SPECIES:,name_target_unresolved_or_ambiguous
+R1609,TVAR_0168,TGT_0152,,Staphylococcus aureus leukocidin,Staphylococcus aureus leukocidin,,,NAME:STAPHYLOCOCCUS AUREUS LEUKOCIDIN|SPECIES:,name_target_unresolved_or_ambiguous
+R1610,TVAR_0168,TGT_0152,,Staphylococcus aureus leukocidin,Staphylococcus aureus leukocidin,,,NAME:STAPHYLOCOCCUS AUREUS LEUKOCIDIN|SPECIES:,name_target_unresolved_or_ambiguous
+R1611,TVAR_0168,TGT_0152,,Staphylococcus aureus leukocidin,Staphylococcus aureus leukocidin,,,NAME:STAPHYLOCOCCUS AUREUS LEUKOCIDIN|SPECIES:,name_target_unresolved_or_ambiguous
+R1922,TVAR_0205,TGT_0188,,SrcB subgroup Hck-Src-homology 2 (Hck SH2),SrcB subgroup Hck-Src-homology 2 (Hck SH2),,,NAME:SRCB SUBGROUP HCK-SRC-HOMOLOGY 2 (HCK SH2)|SPECIES:,name_target_unresolved_or_ambiguous
+R1953,TVAR_0208,TGT_0191,,SrcA subgroup Src-Src-homology 2 (Src SH2),SrcA subgroup Src-Src-homology 2 (Src SH2),,,NAME:SRCA SUBGROUP SRC-SRC-HOMOLOGY 2 (SRC SH2)|SPECIES:,name_target_unresolved_or_ambiguous
+R1954,TVAR_0209,TGT_0192,,SrcA subgroup Yes-Src-homology 2 (Yes SH2),SrcA subgroup Yes-Src-homology 2 (Yes SH2),,,NAME:SRCA SUBGROUP YES-SRC-HOMOLOGY 2 (YES SH2)|SPECIES:,name_target_unresolved_or_ambiguous
+R1956,TVAR_0205,TGT_0188,,SrcB subgroup Hck-Src-homology 2 (Hck SH2),SrcB subgroup Hck-Src-homology 2 (Hck SH2),,,NAME:SRCB SUBGROUP HCK-SRC-HOMOLOGY 2 (HCK SH2)|SPECIES:,name_target_unresolved_or_ambiguous
+R1962,TVAR_0210,TGT_0193,,SrcA subgroup Fgr-Src-homology 2 (Fgr SH2),SrcA subgroup Fgr-Src-homology 2 (Fgr SH2),,,NAME:SRCA SUBGROUP FGR-SRC-HOMOLOGY 2 (FGR SH2)|SPECIES:,name_target_unresolved_or_ambiguous
+R1963,TVAR_0209,TGT_0192,,SrcA subgroup Yes-Src-homology 2 (Yes SH2),SrcA subgroup Yes-Src-homology 2 (Yes SH2),,,NAME:SRCA SUBGROUP YES-SRC-HOMOLOGY 2 (YES SH2)|SPECIES:,name_target_unresolved_or_ambiguous
+R1964,TVAR_0211,TGT_0194,,SrcB subgroup Lyn-Src-homology 2 (Lyn SH2),SrcB subgroup Lyn-Src-homology 2 (Lyn SH2),,,NAME:SRCB SUBGROUP LYN-SRC-HOMOLOGY 2 (LYN SH2)|SPECIES:,name_target_unresolved_or_ambiguous
+R1966,TVAR_0210,TGT_0193,,SrcA subgroup Fgr-Src-homology 2 (Fgr SH2),SrcA subgroup Fgr-Src-homology 2 (Fgr SH2),,,NAME:SRCA SUBGROUP FGR-SRC-HOMOLOGY 2 (FGR SH2)|SPECIES:,name_target_unresolved_or_ambiguous
+R1971,TVAR_0212,TGT_0195,,SrcB subgroup Lck-Src-homology 2 (Lck SH2),SrcB subgroup Lck-Src-homology 2 (Lck SH2),,,NAME:SRCB SUBGROUP LCK-SRC-HOMOLOGY 2 (LCK SH2)|SPECIES:,name_target_unresolved_or_ambiguous
+R1978,TVAR_0212,TGT_0195,,SrcB subgroup Lck-Src-homology 2 (Lck SH2),SrcB subgroup Lck-Src-homology 2 (Lck SH2),,,NAME:SRCB SUBGROUP LCK-SRC-HOMOLOGY 2 (LCK SH2)|SPECIES:,name_target_unresolved_or_ambiguous
+R1979,TVAR_0211,TGT_0194,,SrcB subgroup Lyn-Src-homology 2 (Lyn SH2),SrcB subgroup Lyn-Src-homology 2 (Lyn SH2),,,NAME:SRCB SUBGROUP LYN-SRC-HOMOLOGY 2 (LYN SH2)|SPECIES:,name_target_unresolved_or_ambiguous
+R1652,TVAR_0174,TGT_0158,Q20BH0,CFTR,CFTR,Q20BH0,,UP:Q20BH0,accession_resolved_but_sequence_unavailable
+R1662,TVAR_0174,TGT_0158,Q20BH0,CFTR,CFTR,Q20BH0,,UP:Q20BH0,accession_resolved_but_sequence_unavailable
+R1663,TVAR_0174,TGT_0158,Q20BH0,CFTR,CFTR,Q20BH0,,UP:Q20BH0,accession_resolved_but_sequence_unavailable
+R1682,TVAR_0174,TGT_0158,Q20BH0,CFTR,CFTR,Q20BH0,,UP:Q20BH0,accession_resolved_but_sequence_unavailable
+R1686,TVAR_0174,TGT_0158,Q20BH0,CFTR,CFTR,Q20BH0,,UP:Q20BH0,accession_resolved_but_sequence_unavailable

@@ -2,6 +2,8 @@
 
 Generated for the FBBP-DB Briefings in Bioinformatics supplementary materials on 2026-06-06.
 
+Terminology note: `FBSP/FBSBP` in the frozen runtime prompt is the legacy internal working acronym for the resource now released as FBBP-DB. The text below is otherwise retained verbatim.
+
 This file records the complete LLM extraction prompt family used by the unified extraction pipeline for `Literature` sources. The runtime prompt is scaffold-aware: the pipeline substitutes the current scaffold class and scaffold-specific rule from `SCAFFOLD_CONFIGS`, then appends any selected role prompt and the current role. The source document text is supplied in the user message.
 
 ## Provenance

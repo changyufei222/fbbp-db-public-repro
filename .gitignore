@@ -1,0 +1,15 @@
+# Private manuscript materials must never enter the public reproducibility repository.
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.svg
+FBBP_SUBMISSION_PRIVATE_v20261119/

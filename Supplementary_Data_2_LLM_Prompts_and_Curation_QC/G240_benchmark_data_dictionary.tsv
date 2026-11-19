@@ -1,0 +1,6 @@
+field_or_convention	definition	affected_records	analysis_rule
+Final_Tested_Sequence	A benchmark sequence string; a terminal run of X denotes placeholder positions for which no concrete residue was retained in the benchmark object.	13 of 240 gold records	X is not imputed and is not treated as a resolved amino-acid identity.
+Gold_Label_Sequence	Gold-side sequence field in the aligned-prediction table; uses the same terminal-X placeholder convention as Final_Tested_Sequence.	13 of 240 aligned rows	Compared literally for sequence-exact summaries; no trailing placeholder residues are added to predictions.
+Sequence	Predicted or source-side sequence in the benchmark prediction tables.	Rows vary by model output	A missing concrete residue is not inferred from X positions or from neighboring rows.
+Sequence exactness	Exact string agreement between the released gold and prediction sequence fields.	All evaluable sequence comparisons	A terminal-X placeholder mismatch counts as a mismatch; sequence exactness describes agreement with the released benchmark strings, not recovery of withheld or unretained residues.
+Final database sequences	The production FBBP-DB protein records in tables/proteins.csv.	0 of 1,996 final database records contain X	The benchmark placeholder convention does not apply to production FBBP-DB sequences.

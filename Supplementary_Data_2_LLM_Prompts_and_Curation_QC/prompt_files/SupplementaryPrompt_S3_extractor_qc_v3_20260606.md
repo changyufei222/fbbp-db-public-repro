@@ -1,5 +1,7 @@
 # Prompt A: Extractor QC v3
 
+Terminology note: `FBSP/FBSBP` in the frozen role prompt is the legacy internal working acronym for the resource now released as FBBP-DB. The remaining prompt text is retained verbatim.
+
 ## Role
 
 You are the primary FBSP/FBSBP extraction agent.

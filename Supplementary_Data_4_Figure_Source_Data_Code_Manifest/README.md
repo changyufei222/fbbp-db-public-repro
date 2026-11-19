@@ -1,6 +1,9 @@
 # Supplementary Data 4
 
 This folder contains package-relative artwork manifests and selected figure source data.
+The canonical manuscript artwork paths are retained for traceability, but rendered
+figures are deliberately withheld from the public package and are not listed as
+downloadable files here.
 
 - `Supplementary_Data_4_figure_source_data_code_manifest_sanitized.csv`: main and supplementary figure artwork/source mapping.
 - `Supplementary_Figure_S1-S14_source_manifest.csv`: compact supplementary-figure inventory.

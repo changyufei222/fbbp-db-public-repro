@@ -1,0 +1,6 @@
+# Keep checksum-covered text assets identical across Windows, macOS, and Linux.
+* text=auto eol=lf
+*.gz binary
+*.pdb binary
+*.parquet binary
+*.zip binary

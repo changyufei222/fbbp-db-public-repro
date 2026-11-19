@@ -1,0 +1,103 @@
+{
+  "release_name": "binder_full_length_10fold_v1",
+  "status": "PASS",
+  "release_date": "2026-07-16",
+  "seed": "20260714",
+  "fold_count": 10,
+  "node_definition": "all protein objects with audited normalized full-length sequences",
+  "cluster_definition": "within-scaffold-family full-length single-linkage clusters at global affine alignment identity >=0.95",
+  "identity_definition": "exact aligned residue matches divided by the longer full-length sequence",
+  "protein_objects": 1996,
+  "binder_clusters": 1577,
+  "largest_binder_cluster": 24,
+  "clustering_diagnostics": {
+    "comparison_count": 293621,
+    "length_eligible_comparison_count": 116118,
+    "linked_pair_count": 888,
+    "cluster_count": 1577,
+    "largest_cluster": 24
+  },
+  "fold_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "binder_cluster_crossings": 0,
+  "unassigned_protein_objects": 0,
+  "duplicate_protein_ids": 0,
+  "global_fold_sizes": {
+    "0": 201,
+    "1": 200,
+    "2": 199,
+    "3": 200,
+    "4": 199,
+    "5": 199,
+    "6": 199,
+    "7": 198,
+    "8": 199,
+    "9": 202
+  },
+  "family_fold_size_ranges": {
+    "adnectin": {
+      "min": 45,
+      "max": 46
+    },
+    "affimer": {
+      "min": 6,
+      "max": 7
+    },
+    "avimer": {
+      "min": 4,
+      "max": 5
+    },
+    "beta_roll_domain": {
+      "min": 6,
+      "max": 7
+    },
+    "centyrin": {
+      "min": 7,
+      "max": 8
+    },
+    "cyclotide": {
+      "min": 40,
+      "max": 41
+    },
+    "evh1_domain": {
+      "min": 6,
+      "max": 8
+    },
+    "ibody": {
+      "min": 2,
+      "max": 9
+    },
+    "knottin": {
+      "min": 31,
+      "max": 31
+    },
+    "kunitz": {
+      "min": 15,
+      "max": 18
+    },
+    "obody": {
+      "min": 26,
+      "max": 27
+    },
+    "phd_finger_domain": {
+      "min": 5,
+      "max": 6
+    }
+  },
+  "not_created": [
+    "target_sequence_aware_10fold_v1",
+    "benchmark_zip",
+    "experimental_structure_core_task"
+  ],
+  "derived_train_validation_test_view": "FBBP_ML_derived_split_views_20260716"
+}

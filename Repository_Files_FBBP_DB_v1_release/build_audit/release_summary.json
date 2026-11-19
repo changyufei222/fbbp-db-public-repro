@@ -1,7 +1,9 @@
 {
-  "release_version": "v1.0.0",
-  "release_date": "2026-06-01",
-  "included_files": 99,
+  "database_release_version": "v1.0.0",
+  "public_distribution_version": "v20261119",
+  "release_date": "2026-11-19",
+  "database_snapshot_date": "2026-05-31",
+  "included_files": 600,
   "protein_rows": 1996,
   "loop_annotation_rows": 3383,
   "loop_flexibility_rows": 3383

@@ -1,0 +1,159 @@
+{
+  "binder": {
+    "rows": 1996,
+    "unique_records": 1996,
+    "families": {
+      "kunitz": 161,
+      "knottin": 310,
+      "cyclotide": 404,
+      "obody": 268,
+      "affimer": 69,
+      "avimer": 42,
+      "phd_finger_domain": 53,
+      "centyrin": 73,
+      "adnectin": 456,
+      "evh1_domain": 68,
+      "beta_roll_domain": 65,
+      "ibody": 27
+    },
+    "clusters": 1577,
+    "largest_cluster": 24,
+    "fold_counts": {
+      "0": 201,
+      "1": 200,
+      "2": 199,
+      "3": 200,
+      "4": 199,
+      "5": 199,
+      "6": 199,
+      "7": 198,
+      "8": 199,
+      "9": 202
+    },
+    "split_counts": {
+      "train": 1595,
+      "test": 202,
+      "validation": 199
+    },
+    "cluster_crossings": 0,
+    "exact_sequence_crossings": 0
+  },
+  "target": {
+    "pair_rows": 710,
+    "unique_records": 679,
+    "unique_target_sequence_ids": 144,
+    "target_accessions": 145,
+    "target_clusters": 132,
+    "components": 123,
+    "fold_counts": {
+      "0": 68,
+      "1": 68,
+      "2": 68,
+      "3": 68,
+      "4": 68,
+      "5": 68,
+      "6": 68,
+      "7": 68,
+      "8": 67,
+      "9": 68
+    },
+    "split_counts": {
+      "validation": 67,
+      "train": 544,
+      "test": 68
+    },
+    "pair_split_counts": {
+      "validation": 69,
+      "train": 573,
+      "test": 68
+    },
+    "families": {
+      "kunitz": 20,
+      "knottin": 55,
+      "avimer": 9,
+      "cyclotide": 17,
+      "adnectin": 342,
+      "centyrin": 10,
+      "ibody": 20,
+      "affimer": 3,
+      "obody": 201,
+      "phd_finger_domain": 1,
+      "evh1_domain": 1
+    },
+    "labels": {
+      "1": 710
+    },
+    "crossings": {
+      "resource_record_id": 0,
+      "binder_cluster_95_id": 0,
+      "target_cluster_40_id": 0,
+      "target_aware_component_id": 0
+    },
+    "registry_rows": 145,
+    "registry_unique_sequence_hashes": 144,
+    "accessions_sharing_sequence": [
+      [
+        "P00533",
+        "P00533-1"
+      ]
+    ]
+  },
+  "quality_tiers": {
+    "structure_core_mapped_95": {
+      "rows": 201,
+      "unique_records": 201,
+      "binder_fold_mismatches": 0,
+      "split_counts": {
+        "train": 151,
+        "test": 29,
+        "validation": 21
+      },
+      "min_identity": 0.956522,
+      "min_core_coverage": 1.0,
+      "min_full_sequence_coverage": 0.809091,
+      "internal_gap_sum": 0,
+      "internal_insertion_sum": 0,
+      "missing_backbone_sum": 0
+    },
+    "structure_core_exact_sequence": {
+      "rows": 189,
+      "unique_records": 189,
+      "binder_fold_mismatches": 0,
+      "split_counts": {
+        "train": 143,
+        "test": 27,
+        "validation": 19
+      },
+      "min_identity": 1.0,
+      "min_core_coverage": 1.0,
+      "min_full_sequence_coverage": 0.809091,
+      "internal_gap_sum": 0,
+      "internal_insertion_sum": 0,
+      "missing_backbone_sum": 0
+    },
+    "complex_binder_target_contact": {
+      "rows": 53,
+      "unique_records": 53,
+      "binder_fold_mismatches": 0,
+      "split_counts": {
+        "train": 43,
+        "validation": 4,
+        "test": 6
+      },
+      "distinct_assembly_files": 51,
+      "contact_distance_max": 4.831
+    },
+    "complex_recognition_window_target_contact": {
+      "rows": 19,
+      "unique_records": 19,
+      "binder_fold_mismatches": 0,
+      "split_counts": {
+        "train": 13,
+        "validation": 3,
+        "test": 3
+      },
+      "distinct_assembly_files": 18,
+      "contact_distance_max": 3.931
+    }
+  }
+}

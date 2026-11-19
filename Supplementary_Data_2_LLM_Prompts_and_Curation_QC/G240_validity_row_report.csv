@@ -1,4 +1,4 @@
-Gold_Subset_ID,File_Name,prediction_found,class_match,sequence_match,target_match,affinity_match,pdb_match,method_match,evidence_support_count
+﻿Gold_Subset_ID,File_Name,prediction_found,class_match,sequence_match,target_match,affinity_match,pdb_match,method_match,evidence_support_count
 GS240-001,056-133-720-019-262.txt,False,False,False,False,False,False,False,0
 GS240-002,Angage 等 - 2024 - A broadly cross-reactive i-body to AMA1 potently inhibits blood and liver stages of Plasmodium paras.pdf,False,False,False,False,False,True,False,0
 GS240-003,Angage 等 - 2024 - A broadly cross-reactive i-body to AMA1 potently inhibits blood and liver stages of Plasmodium paras.pdf,False,False,False,False,False,True,True,0

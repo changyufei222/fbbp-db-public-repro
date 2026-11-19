@@ -1,0 +1,35 @@
+{
+  "generated_at": "2026-10-24T22:21:21.233782+08:00",
+  "inputs": {
+    "<LOCAL_PATH_REMOVED>/loop_flexibility_results_long.csv": "e849e883fdc63ef50d809c3407203748b2bf5c6bbf75b2171b4f1a705b388a93",
+    "<LOCAL_PATH_REMOVED>/tbp_vs_airs_tbp_input_v1.csv": "fa557ed3f88f6db4f86441bd7974fb13c0b858ec264fd81ebb85293a26f4c2e8",
+    "<LOCAL_PATH_REMOVED>/tbp_vs_airs_air_reference_v1.csv": "c569067425a97efcdc49bfcaf237946e693c82d366569149d6eed1bb1094c272"
+  },
+  "spearman_avgRSA_ITsFlexible": {
+    "n_loops": 3301,
+    "n_protein_clusters": 1575,
+    "spearman_rho": 0.28197205733530123,
+    "bootstrap_replicates_requested": 4000,
+    "bootstrap_replicates_used": 4000,
+    "bootstrap_ci_95_lower": 0.24495752704069174,
+    "bootstrap_ci_95_upper": 0.3170116367534731,
+    "bootstrap_standard_error": 0.018483359090326848,
+    "seed": 20261024
+  },
+  "length_adjusted_logit_FBBP_vs_AIR": {
+    "n_observations": 23974,
+    "n_fbbp_loops": 2870,
+    "n_fbbp_protein_clusters": 1502,
+    "n_air_loops": 21104,
+    "fbbp_coefficient": 2.3647640087326502,
+    "cluster_robust_se": 0.05481336211915657,
+    "odds_ratio": 10.641527213669688,
+    "ci_95_lower": 9.557534716636907,
+    "ci_95_upper": 11.848463520844007,
+    "p_value": 0.0,
+    "length_center": 7.109076499541169,
+    "length_scale": 3.9940086362959377,
+    "covariance": "cluster-robust by FBBP protein; AIR loops treated as independent",
+    "model": "logit(is_flexible) ~ FBBP + standardized_length + standardized_length^2"
+  }
+}

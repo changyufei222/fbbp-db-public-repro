@@ -1,0 +1,6 @@
+method,candidate_rows,recovered_gold,precision,recall,f1
+B240 single-model LLM,212,64,0.3019,0.2667,0.2832
+C1_240 multi-role LLM,248,78,0.3145,0.325,0.3197
+G240 builder LLM,289,85,0.2941,0.3542,0.3214
+Complete-field template,183,32,0.1749,0.1333,0.1513
+Permissive sequence scanner,33532,221,0.0066,0.9208,0.0131

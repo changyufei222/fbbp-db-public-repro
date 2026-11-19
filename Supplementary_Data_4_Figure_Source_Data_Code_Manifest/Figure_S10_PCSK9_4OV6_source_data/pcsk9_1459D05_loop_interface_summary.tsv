@@ -1,0 +1,6 @@
+entity	residue_range	binder_contact_residue_count_4p5A	heavy_atom_atom_pair_count_4p5A	target_residue_count_4p5A	deltaASA_A2_sum_biopython_sr960	deltaASA_A2_rounded_1dp	mean_asa_binder_alone_A2_biopython_sr960	mean_asa_binder_in_complex_A2_biopython_sr960	mean_deltaASA_A2_biopython_sr960
+L2	22-30	1	17	4	68.099	68.1	70.749	63.183	7.567
+L6	60-66	0	0	0	0	0	58.751	58.751	0.0
+L7	76-83	8	180	20	524.777	524.8	79.565	21.256	58.309
+all_FRRs	L2+L6+L7	9	197	23	592.876	592.9	70.563	46.848	23.715
+all_binder_interface	all chain G interface residues	19	324	26	911.427	911.4	68.478	27.049	41.428

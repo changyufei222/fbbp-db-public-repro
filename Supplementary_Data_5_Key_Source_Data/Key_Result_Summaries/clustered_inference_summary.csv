@@ -1,0 +1,3 @@
+analysis,estimate,ci_95_lower,ci_95_upper,n_observations,n_clusters,inference
+Spearman avgRSA vs ITsFlexible,0.28197205733530123,0.24495752704069174,0.3170116367534731,3301,1575,protein-cluster percentile bootstrap
+Length-adjusted logit FBBP vs AIR,10.641527213669688,9.557534716636907,11.848463520844007,23974,1502,protein-cluster robust covariance for FBBP loops

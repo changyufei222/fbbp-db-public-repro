@@ -1,0 +1,9 @@
+object	count	unit	role
+protein-level resource	1996	protein records	resource denominator
+structure-ready resource	1995	protein records	coordinate-available resource denominator
+recognition-window layer	3383	family-aware recognition windows	window-level analysis denominator
+ITsFlexible binary-label subset	2870	recognition windows	AIR enrichment comparison
+primary avgRSA comparison	840 binding-associated + 588 comparator	recognition windows	Figure 2 primary comparison
+coordinate-filtered complex subset	85	recognition windows	interface consistency diagnostic
+local prediction planning layer	1595	unique sequences	structure-generation task count; not the protein-record denominator
+local prediction selected in final resource	1327	protein records	selected best-available structure source

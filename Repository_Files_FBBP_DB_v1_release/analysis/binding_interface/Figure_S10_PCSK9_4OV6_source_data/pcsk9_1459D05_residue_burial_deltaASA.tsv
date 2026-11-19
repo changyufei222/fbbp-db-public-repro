@@ -1,0 +1,23 @@
+pdb_id	binder_chain	target_chains	frr	residue_number	insertion_code	residue_name	heavy_atom_atom_pair_count_4p5A	unique_target_residue_count_4p5A	asa_binder_alone_A2_biopython_sr960	asa_binder_in_complex_A2_biopython_sr960	deltaASA_A2_biopython_sr960
+4OV6	G	D;E	non_FRR_interface	-1		GLY	7	1	65.298	34.587	30.712
+4OV6	G	D;E	non_FRR_interface	1		VAL	0	0	18.127	14.073	4.054
+4OV6	G	D;E	L2	29		TYR	17	4	132.212	64.113	68.099
+4OV6	G	D;E	non_FRR_interface	33		ARG	1	1	15.199	0.228	14.971
+4OV6	G	D;E	non_FRR_interface	35		THR	6	2	21.955	8.078	13.876
+4OV6	G	D;E	non_FRR_interface	45		VAL	8	1	100.081	66.047	34.035
+4OV6	G	D;E	non_FRR_interface	46		GLN	4	1	90.476	88.757	1.719
+4OV6	G	D;E	non_FRR_interface	47		GLU	10	1	38.668	15.498	23.169
+4OV6	G	D;E	non_FRR_interface	73		TYR	17	3	59.83	14.844	44.986
+4OV6	G	D;E	L7	76		GLU	5	2	55.547	17.054	38.493
+4OV6	G	D;E	L7	77		TYR	29	6	94.716	2.822	91.894
+4OV6	G	D;E	L7	78		PRO	0	0	53.145	52.39	0.755
+4OV6	G	D;E	L7	79		TYR	28	4	96.235	24.663	71.572
+4OV6	G	D;E	L7	79	A	LYS	7	2	122.57	82.061	40.509
+4OV6	G	D;E	L7	80		HIS	53	7	145.061	11.254	133.807
+4OV6	G	D;E	L7	81		SER	5	3	21.546	0.558	20.988
+4OV6	G	D;E	L7	82		GLY	10	3	38.898	0.0	38.898
+4OV6	G	D;E	L7	83		TYR	43	6	88.364	0.503	87.861
+4OV6	G	D;E	non_FRR_interface	84		TYR	38	5	78.1	0.503	77.597
+4OV6	G	D;E	non_FRR_interface	85		HIS	12	2	31.448	14.772	16.676
+4OV6	G	D;E	non_FRR_interface	86		ARG	24	4	93.985	40.877	53.108
+4OV6	G	D;E	non_FRR_interface	87		PRO	0	0	45.046	41.398	3.648

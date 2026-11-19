@@ -1,0 +1,21 @@
+{
+  "gold_rows": 240,
+  "combined_prediction_rows": 289,
+  "source_level_matched_pairs": 85,
+  "gold_rows_with_any_same_file_prediction": 88,
+  "reused_prediction_pairs": 3,
+  "source_level_false_positives": 204,
+  "source_level_false_negatives": 155,
+  "source_level_precision": 0.29411764705882354,
+  "source_level_recall": 0.3541666666666667,
+  "source_level_f1": 0.32136105860113423,
+  "matched_unique_prediction_rows": 85,
+  "interpretation": "The legacy 88/240 count means that a prediction existed somewhere in the same source file. A strict one-to-one maximum bipartite assignment yields 85 unique prediction-gold pairs because three predictions were otherwise reused. Metrics describe source-file candidate matching, not field-level correctness or a validated biological positive/negative classification.",
+  "input_files": {
+    "<LOCAL_PATH_REMOVED>/validity_summary.json": 244,
+    "<LOCAL_PATH_REMOVED>/validity_row_report.csv": 27238,
+    "<LOCAL_PATH_REMOVED>/validity_field_summary.csv": 308,
+    "<LOCAL_PATH_REMOVED>/combined_arbiter_predictions.csv": 250465,
+    "<LOCAL_PATH_REMOVED>/benchmark_aligned_predictions.csv": 563404
+  }
+}

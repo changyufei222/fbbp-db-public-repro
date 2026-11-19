@@ -1,0 +1,9 @@
+metric,released,naive,difference,ci_low,ci_high
+same_parent_exposure,0.0,0.771,0.771,,
+same_cluster_exposure,0.0,0.8404,0.8404,,
+kmer_macro_f1,0.7975,0.8104,0.0129,-0.0044,0.0302
+prostt5_macro_f1,0.8192,0.8447,0.0255,0.0083,0.0434
+kmer_rigid_class_f1,0.701,0.7201,0.0192,-0.0075,0.0466
+prostt5_rigid_class_f1,0.7271,0.7649,0.0377,0.0104,0.0666
+binder_le_5pct_edit_distance,0.005,0.2985,0.2935,,
+binder_le_10pct_edit_distance,0.3076,0.4842,0.1766,,

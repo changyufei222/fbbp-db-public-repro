@@ -1,0 +1,5 @@
+panel,metric,released_cluster_split_percent,naive_frr_split_percent,difference_percentage_points,ci_low_percentage_points,ci_high_percentage_points
+A,same-parent training exposure,0.0,77.1,77.1,,
+A,same-95%-cluster training exposure,0.0,84.0,84.0,,
+B,k-mer Macro-F1,79.75,81.04,1.29,-0.44,3.02
+B,ProstT5 Macro-F1,81.92,84.47,2.55,0.83,4.34

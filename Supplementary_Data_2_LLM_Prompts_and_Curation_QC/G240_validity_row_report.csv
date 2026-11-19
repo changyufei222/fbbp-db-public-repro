@@ -1,0 +1,241 @@
+Gold_Subset_ID,File_Name,prediction_found,class_match,sequence_match,target_match,affinity_match,pdb_match,method_match,evidence_support_count
+GS240-001,056-133-720-019-262.txt,False,False,False,False,False,False,False,0
+GS240-002,Angage 等 - 2024 - A broadly cross-reactive i-body to AMA1 potently inhibits blood and liver stages of Plasmodium paras.pdf,False,False,False,False,False,True,False,0
+GS240-003,Angage 等 - 2024 - A broadly cross-reactive i-body to AMA1 potently inhibits blood and liver stages of Plasmodium paras.pdf,False,False,False,False,False,True,True,0
+GS240-004,Angage 等 - 2024 - A broadly cross-reactive i-body to AMA1 potently inhibits blood and liver stages of Plasmodium paras.pdf,False,False,False,False,False,True,False,0
+GS240-005,Angage 等 - 2024 - A broadly cross-reactive i-body to AMA1 potently inhibits blood and liver stages of Plasmodium paras.pdf,False,False,False,False,False,True,True,0
+GS240-006,"JBC_2016_i-bodies, human single domain antibodies that antagonize chemokine receptor CXCR4.pdf",False,False,False,False,False,True,True,0
+GS240-007,"Olson 等 - 2008 - mRNA display selection of a high-affinity, modification-specific phospho-IkappaBalpha-binding fibron.pdf",False,False,False,False,False,True,True,0
+GS240-008,"Mitchell 等 - 2014 - Pharmacologic profile of the adnectin BMS-962476, a small protein biologic alternative to PCSK9 anti.pdf",False,False,False,False,False,True,True,0
+GS240-009,"Mitchell 等 - 2014 - Pharmacologic profile of the adnectin BMS-962476, a small protein biologic alternative to PCSK9 anti.pdf",False,False,False,False,False,False,False,0
+GS240-010,Huang 等 - 2015 - Streamlining the pipeline for generation of recombinant affinity reagents by integrating the affinit.pdf,False,False,False,False,False,True,True,0
+GS240-011,Zhang 等 - 2021 - Engineering calreticulin-targeting monobodies to detect immunogenic cell death in cancer chemotherap.pdf,False,False,False,False,False,True,True,0
+GS240-012,Zhang 等 - 2021 - Engineering calreticulin-targeting monobodies to detect immunogenic cell death in cancer chemotherap.pdf,False,False,False,False,False,True,True,0
+GS240-013,Amesaka 等 - 2024 - Engineering a monobody specific to monomeric CuZn-superoxide dismutase associated with amyotrophic.pdf,False,False,False,False,False,True,True,0
+GS240-014,Amesaka 等 - 2024 - Engineering a monobody specific to monomeric CuZn-superoxide dismutase associated with amyotrophic.pdf,False,False,False,False,False,True,True,0
+GS240-015,Amesaka 等 - 2024 - Engineering a monobody specific to monomeric CuZn-superoxide dismutase associated with amyotrophic.pdf,False,False,False,False,False,True,True,0
+GS240-016,Amesaka 等 - 2024 - Engineering a monobody specific to monomeric CuZn-superoxide dismutase associated with amyotrophic.pdf,False,False,False,False,False,True,True,0
+GS240-017,115-545-026-672-420.txt,False,True,False,True,False,True,True,2
+GS240-018,046-465-995-264-206.txt,True,True,True,True,False,True,True,4
+GS240-019,115-545-026-672-420.txt,False,True,False,True,False,True,True,2
+GS240-020,046-465-995-264-206.txt,True,True,True,False,False,True,True,4
+GS240-021,115-545-026-672-420.txt,False,True,False,True,False,True,True,2
+GS240-022,196-975-676-303-254.txt,True,True,True,True,False,True,True,4
+GS240-023,115-545-026-672-420.txt,False,True,False,True,False,True,True,2
+GS240-024,196-975-676-303-254.txt,True,True,False,True,True,True,True,4
+GS240-025,115-545-026-672-420.txt,False,True,False,True,False,True,True,2
+GS240-026,196-975-676-303-254.txt,True,True,True,True,True,True,True,4
+GS240-027,074-285-047-702-170.txt,True,True,True,False,False,False,False,4
+GS240-028,188-746-080-479-364.txt,False,False,False,False,False,True,True,0
+GS240-029,188-746-080-479-364.txt,False,False,False,False,False,True,True,0
+GS240-030,121-441-230-029-96X.txt,True,True,False,True,False,True,False,4
+GS240-031,118-901-867-543-700.txt,True,True,False,True,False,True,True,2
+GS240-032,118-901-867-543-700.txt,True,True,False,True,False,True,True,2
+GS240-033,099-157-797-250-274.txt,True,True,False,True,False,False,False,2
+GS240-034,099-157-797-250-274.txt,True,True,False,True,False,True,True,2
+GS240-035,112-538-680-276-399.txt,False,False,False,False,False,True,True,0
+GS240-036,112-538-680-276-399.txt,False,False,False,False,False,True,True,0
+GS240-037,112-538-680-276-399.txt,False,False,False,False,False,True,True,0
+GS240-038,112-538-680-276-399.txt,False,False,False,False,False,True,True,0
+GS240-039,112-538-680-276-399.txt,False,False,False,False,False,True,True,0
+GS240-040,112-538-680-276-399.txt,False,False,False,False,False,True,True,0
+GS240-041,112-538-680-276-399.txt,False,False,False,False,False,True,True,0
+GS240-042,000-732-209-723-095.txt,False,False,False,False,False,True,True,0
+GS240-043,000-732-209-723-095.txt,False,False,False,False,False,True,True,0
+GS240-044,138-084-521-309-077.txt,False,False,False,False,False,True,True,0
+GS240-045,Dooley 等 - 2014 - Doubling the cross-linking interface of a rationally designed beta roll peptide for calcium-dependen.pdf,False,False,False,True,False,True,True,0
+GS240-046,Dooley 等 - 2014 - Doubling the cross-linking interface of a rationally designed beta roll peptide for calcium-dependen.pdf,False,False,False,True,False,True,True,0
+GS240-047,Dooley 等 - 2014 - Doubling the cross-linking interface of a rationally designed beta roll peptide for calcium-dependen.pdf,False,False,False,True,False,False,False,0
+GS240-048,Aachmann 等 - 2006 - NMR structure of the R-module a parallel beta-roll subunit from an azotobacter vinelandii mannurona.pdf,False,False,False,True,False,False,False,0
+GS240-049,142-388-691-661-820.txt,True,True,False,True,False,False,False,3
+GS240-050,061-936-011-751-784.txt,True,True,False,False,False,True,True,4
+GS240-051,061-936-011-751-784.txt,True,True,False,False,False,True,True,4
+GS240-052,061-936-011-751-784.txt,True,True,True,True,False,True,True,4
+GS240-053,111-731-407-357-671.txt,True,True,False,True,False,True,True,3
+GS240-054,028-879-685-039-916.txt,False,False,False,False,False,True,True,0
+GS240-055,022-909-962-041-878.txt,True,True,True,True,False,True,True,3
+GS240-056,Heitz 等 - 2008 - Knottin cyclization impact on structure and dynamics.pdf,False,False,False,False,False,False,False,0
+GS240-057,Thongyoo 等 - 2008 - Chemical and biomimetic total syntheses of natural and engineered MCoTI cyclotides.pdf,False,False,False,False,False,True,False,0
+GS240-058,Thongyoo 等 - 2008 - Chemical and biomimetic total syntheses of natural and engineered MCoTI cyclotides.pdf,False,False,False,False,False,False,False,0
+GS240-059,Thongyoo 等 - 2008 - Chemical and biomimetic total syntheses of natural and engineered MCoTI cyclotides.pdf,False,False,False,False,False,False,False,0
+GS240-060,Mishra 等 - 2020 - Repurposing the McoTI-II rigid molecular scaffold in to inhibitor of 'papain superfamily' cysteine p.pdf,False,False,False,True,False,False,False,0
+GS240-061,Yin 等 - 2021 - An integrated molecular grafting approach for the design of Keap1-targeted peptide inhibitors.pdf,False,False,False,False,False,True,True,0
+GS240-062,Yin 等 - 2021 - An integrated molecular grafting approach for the design of Keap1-targeted peptide inhibitors.pdf,False,False,False,False,False,True,False,0
+GS240-063,Yin 等 - 2021 - An integrated molecular grafting approach for the design of Keap1-targeted peptide inhibitors.pdf,False,False,False,False,False,True,True,0
+GS240-064,Quimbar 等 - 2013 - High-affinity cyclic peptide matriptase inhibitors.pdf,False,False,False,False,False,False,False,0
+GS240-065,Heitz 等 - 2008 - Knottin cyclization impact on structure and dynamics.pdf,False,False,False,False,False,True,True,0
+GS240-066,021-553-581-851-761.txt,True,True,True,True,False,True,True,4
+GS240-067,112-905-166-421-612.txt,True,True,True,False,False,True,True,4
+GS240-068,112-905-166-421-612.txt,True,True,False,False,False,False,False,4
+GS240-069,081-731-080-045-636.txt,True,True,True,True,False,True,True,4
+GS240-070,021-553-581-851-761.txt,True,True,False,True,False,True,True,4
+GS240-071,021-553-581-851-761.txt,True,True,False,True,False,True,True,4
+GS240-072,021-553-581-851-761.txt,True,True,False,True,False,True,True,4
+GS240-073,085-072-564-152-699.txt,False,False,False,True,False,False,False,0
+GS240-074,034-545-292-448-118.txt,False,False,False,True,False,False,False,0
+GS240-075,081-731-080-045-636.txt,True,True,True,True,False,True,True,3
+GS240-076,Glotzbach 等 - 2013 - Combinatorial optimization of cystine-knot peptides towards high-affinity inhibitors of human matrip.pdf,False,False,False,False,False,False,False,0
+GS240-077,Kini 等 - 2015 - Studies on the chitin binding property of novel cysteine-rich peptides from alternanthera sessilis.pdf,False,False,False,True,False,True,False,0
+GS240-078,Glotzbach 等 - 2013 - Combinatorial optimization of cystine-knot peptides towards high-affinity inhibitors of human matrip.pdf,False,False,False,False,False,True,True,0
+GS240-079,Kini 等 - 2015 - Studies on the chitin binding property of novel cysteine-rich peptides from alternanthera sessilis.pdf,False,False,False,True,False,True,True,0
+GS240-080,Glotzbach 等 - 2013 - Combinatorial optimization of cystine-knot peptides towards high-affinity inhibitors of human matrip.pdf,False,False,False,False,False,True,True,0
+GS240-081,Hilpert 等 - 2003 - Design and characterization of a hybrid miniprotein that specifically inhibits porcine pancreatic el.pdf,False,False,False,False,False,False,False,0
+GS240-082,Glotzbach 等 - 2013 - Combinatorial optimization of cystine-knot peptides towards high-affinity inhibitors of human matrip.pdf,False,False,False,False,False,False,False,0
+GS240-083,Hilpert 等 - 2003 - Design and characterization of a hybrid miniprotein that specifically inhibits porcine pancreatic el.pdf,False,False,False,False,False,True,True,0
+GS240-084,Glotzbach 等 - 2013 - Combinatorial optimization of cystine-knot peptides towards high-affinity inhibitors of human matrip.pdf,False,False,False,False,False,False,False,0
+GS240-085,Silverman 等 - 2009 - Engineered cystine-knot peptides that bind alpha(v)beta(3) integrin with antibody-like affinities.pdf,False,False,False,False,False,True,True,0
+GS240-086,127-023-610-504-191.txt,True,True,False,False,True,False,False,4
+GS240-087,151-392-711-118-920.txt,True,True,False,False,True,True,True,4
+GS240-088,127-023-610-504-191.txt,True,True,False,False,True,False,False,4
+GS240-089,089-791-695-608-496.txt,False,False,False,False,False,True,True,0
+GS240-090,089-791-695-608-496.txt,False,False,False,False,False,True,True,0
+GS240-091,089-791-695-608-496.txt,False,False,False,False,False,True,True,0
+GS240-092,089-791-695-608-496.txt,False,False,False,False,False,True,True,0
+GS240-093,089-791-695-608-496.txt,False,False,False,False,False,True,True,0
+GS240-094,146-538-190-783-017.txt,True,True,True,False,True,True,False,4
+GS240-095,146-538-190-783-017.txt,True,True,True,False,True,True,False,4
+GS240-096,"García-Fernández 等 - 2016 - Two variants of the major serine protease inhibitor from the sea anemone Stichodactyla helianthus, e.pdf",False,False,False,True,False,True,False,0
+GS240-097,"García-Fernández 等 - 2016 - Two variants of the major serine protease inhibitor from the sea anemone Stichodactyla helianthus, e.pdf",False,False,False,True,False,False,False,0
+GS240-098,"García-Fernández 等 - 2016 - Two variants of the major serine protease inhibitor from the sea anemone Stichodactyla helianthus, e.pdf",False,False,False,True,False,False,False,0
+GS240-099,"García-Fernández 等 - 2016 - Two variants of the major serine protease inhibitor from the sea anemone Stichodactyla helianthus, e.pdf",False,False,False,True,False,False,False,0
+GS240-100,Mitchell 等 - 2018 - Engineering a potent inhibitor of matriptase from the natural hepatocyte growth factor activator inh.pdf,False,False,False,True,False,True,True,0
+GS240-101,Mitchell 等 - 2018 - Engineering a potent inhibitor of matriptase from the natural hepatocyte growth factor activator inh.pdf,False,False,False,True,False,True,True,0
+GS240-102,160-669-399-419-918.txt,True,True,True,True,False,False,False,4
+GS240-103,160-669-399-419-918.txt,True,True,False,False,False,True,True,4
+GS240-104,160-669-399-419-918.txt,True,True,False,False,False,True,True,4
+GS240-105,160-669-399-419-918.txt,True,True,False,False,False,True,True,4
+GS240-106,059-269-289-473-434.txt,True,True,False,False,False,True,True,4
+GS240-107,061-966-293-848-863.txt,True,True,False,False,True,True,True,4
+GS240-108,129-401-482-070-891.txt,True,True,False,True,False,True,True,4
+GS240-109,146-346-503-176-562.txt,True,True,False,False,True,True,True,4
+GS240-110,186-207-255-566-078.txt,True,True,False,False,False,True,True,4
+GS240-111,186-207-255-566-078.txt,True,True,False,False,False,True,True,4
+GS240-112,PO_2014_Tracking molecular recognition at the atomic level with a new protein scaffold based on the OB-fold.pdf,False,False,False,True,False,True,False,0
+GS240-113,PO_2014_Potent and specific inhibition of glycosidases by small artificial binding proteins (affitins).pdf,False,False,False,True,False,False,False,0
+GS240-114,PO_2014_Potent and specific inhibition of glycosidases by small artificial binding proteins (affitins).pdf,False,False,False,False,False,False,False,0
+GS240-115,PO_2014_Potent and specific inhibition of glycosidases by small artificial binding proteins (affitins).pdf,False,False,False,False,False,False,False,0
+GS240-116,PO_2015_Use of the nanofitin alternative scaffold as a GFP-ready fusion tag.pdf,False,False,False,False,False,False,False,0
+GS240-117,099-343-501-277-929.txt,True,True,False,True,False,False,False,4
+GS240-118,099-343-501-277-929.txt,True,True,True,True,False,True,True,4
+GS240-119,054-843-214-993-138.txt,False,False,False,False,False,True,True,0
+GS240-120,Chakravarty 等 - 2015 - Histone Peptide Recognition by KDM5B-PHD1 A Case Study.pdf,False,False,False,False,False,True,True,0
+GS240-121,Miller 等 - 2010 - Allosteric remodelling of the histone H3 binding pocket in the Pygo2 PHD finger triggered by its bin.pdf,False,False,False,True,False,True,True,0
+GS240-122,Miller 等 - 2010 - Allosteric remodelling of the histone H3 binding pocket in the Pygo2 PHD finger triggered by its bin.pdf,False,False,False,True,False,True,True,0
+GS240-123,Oliver 等 - 2012 - Multivalent recognition of histone tails by the PHD fingers of CHD5.pdf,False,False,False,False,False,True,True,0
+GS240-124,Lemak 等 - 2013 - Solution NMR structure and histone binding of the PHD domain of human MLL5.pdf,False,False,False,False,False,False,False,0
+GS240-125,Kini 等 - 2015 - Studies on the chitin binding property of novel cysteine-rich peptides from alternanthera sessilis.pdf,False,False,False,True,False,True,True,0
+GS240-126,193-038-820-911-663.txt,True,True,False,True,False,False,False,4
+GS240-127,034-606-025-279-942.txt,False,False,False,False,False,False,False,0
+GS240-128,112-538-680-276-399.txt,False,False,False,False,False,True,True,0
+GS240-129,186-471-123-497-413.txt,False,False,False,False,False,True,True,0
+GS240-130,Lau 等 - 2018 - Synthetic 10FN3-based mono- and bivalent inhibitors of MDM2X function.pdf,False,False,False,True,False,True,True,0
+GS240-131,Kini 等 - 2015 - Studies on the chitin binding property of novel cysteine-rich peptides from alternanthera sessilis.pdf,False,False,False,True,False,True,True,0
+GS240-132,193-038-820-911-663.txt,True,True,False,True,False,False,False,4
+GS240-133,112-538-680-276-399.txt,False,False,False,False,False,True,True,0
+GS240-134,186-471-123-497-413.txt,False,False,False,False,False,True,True,0
+GS240-135,107-079-759-456-092.txt,False,False,False,True,False,True,True,0
+GS240-136,Chandler 等 - 2021 - Mutational and biophysical robustness in a prestabilized monobody.pdf,False,False,False,True,False,False,False,0
+GS240-137,Kini 等 - 2015 - Studies on the chitin binding property of novel cysteine-rich peptides from alternanthera sessilis.pdf,False,False,False,True,False,True,True,0
+GS240-138,057-739-687-650-978.txt,True,True,False,False,False,True,True,3
+GS240-139,112-538-680-276-399.txt,False,False,False,False,False,True,True,0
+GS240-140,124-729-961-304-429.txt,True,True,False,False,False,True,True,4
+GS240-141,099-978-411-864-096.txt,True,True,False,True,False,True,True,2
+GS240-142,Zhang 等 - 2021 - Engineering calreticulin-targeting monobodies to detect immunogenic cell death in cancer chemotherap.pdf,False,False,False,False,False,True,True,0
+GS240-143,Kini 等 - 2015 - Studies on the chitin binding property of novel cysteine-rich peptides from alternanthera sessilis.pdf,False,False,False,True,False,True,True,0
+GS240-144,057-739-687-650-978.txt,True,True,False,False,False,True,True,3
+GS240-145,112-538-680-276-399.txt,False,False,False,False,False,True,True,0
+GS240-146,124-729-961-304-429.txt,True,True,True,False,False,False,False,4
+GS240-147,059-655-368-965-555.txt,False,False,False,True,False,True,True,0
+GS240-148,Zhang 等 - 2021 - Engineering calreticulin-targeting monobodies to detect immunogenic cell death in cancer chemotherap.pdf,False,False,False,False,False,True,True,0
+GS240-149,057-739-687-650-978.txt,True,True,False,False,False,True,True,3
+GS240-150,PE_1999_The cystine knot of a squash-type protease inhibitor as a structural scaffold for escherichia coli cell surface display of conformationally constrained peptides.pdf,False,False,False,True,False,False,False,0
+GS240-151,112-538-680-276-399.txt,False,False,False,False,False,True,True,0
+GS240-152,124-729-961-304-429.txt,True,True,False,False,False,True,True,4
+GS240-153,196-975-676-303-254.txt,True,True,True,True,True,True,True,4
+GS240-154,Zhang 等 - 2021 - Engineering calreticulin-targeting monobodies to detect immunogenic cell death in cancer chemotherap.pdf,False,False,False,False,False,True,True,0
+GS240-155,169-369-581-339-319.txt,True,True,False,True,False,True,True,2
+GS240-156,112-538-680-276-399.txt,False,False,False,False,False,True,True,0
+GS240-157,Silverman 等 - 2009 - Engineered cystine-knot peptides that bind alpha(v)beta(3) integrin with antibody-like affinities.pdf,False,False,False,False,False,True,True,0
+GS240-158,061-401-557-849-926.txt,False,False,False,False,False,False,False,0
+GS240-159,196-975-676-303-254.txt,True,True,True,True,True,True,True,4
+GS240-160,Zhang 等 - 2021 - Engineering calreticulin-targeting monobodies to detect immunogenic cell death in cancer chemotherap.pdf,False,False,False,False,False,True,True,0
+GS240-161,015-996-154-556-886.txt,False,False,False,True,False,True,True,0
+GS240-162,112-538-680-276-399.txt,False,False,False,False,False,True,True,0
+GS240-163,Silverman 等 - 2009 - Engineered cystine-knot peptides that bind alpha(v)beta(3) integrin with antibody-like affinities.pdf,False,False,False,False,False,True,True,0
+GS240-164,061-401-557-849-926.txt,False,False,False,False,False,False,False,0
+GS240-165,196-975-676-303-254.txt,True,True,True,True,True,True,True,4
+GS240-166,Zhang 等 - 2021 - Engineering calreticulin-targeting monobodies to detect immunogenic cell death in cancer chemotherap.pdf,False,False,False,False,False,True,True,0
+GS240-167,015-996-154-556-886.txt,False,False,False,True,False,False,False,0
+GS240-168,112-538-680-276-399.txt,False,False,False,False,False,True,True,0
+GS240-169,Silverman 等 - 2009 - Engineered cystine-knot peptides that bind alpha(v)beta(3) integrin with antibody-like affinities.pdf,False,False,False,False,False,True,True,0
+GS240-170,196-975-676-303-254.txt,True,True,True,True,True,True,True,4
+GS240-171,057-760-329-909-755.txt,True,True,False,True,False,True,True,3
+GS240-172,Hayashi 等 - 2024 - Generating a mirror-image monobody targeting MCP-1 via TRAP display and chemical protein synthesis.pdf,False,False,False,False,False,True,True,0
+GS240-173,065-304-266-883-359.txt,True,True,False,False,False,True,True,2
+GS240-174,112-538-680-276-399.txt,False,False,False,False,False,True,True,0
+GS240-175,Silverman 等 - 2009 - Engineered cystine-knot peptides that bind alpha(v)beta(3) integrin with antibody-like affinities.pdf,False,False,False,False,False,True,True,0
+GS240-176,196-975-676-303-254.txt,True,True,False,True,True,True,True,4
+GS240-177,057-760-329-909-755.txt,True,True,False,True,False,True,True,3
+GS240-178,Schmidt 等 - 2024 - Development of mirror-image monobodies targeting the oncogenic BCRABL1 kinase.pdf,False,False,False,False,False,True,True,0
+GS240-179,186-207-255-566-078.txt,True,True,False,False,False,False,False,4
+GS240-180,112-538-680-276-399.txt,False,False,False,False,False,True,True,0
+GS240-181,Kimura 等 - 2009 - Engineered knottin peptides a new class of agents for imaging integrin expression in living subject.pdf,False,False,False,False,False,True,True,0
+GS240-182,159-157-745-473-876.txt,True,True,False,False,False,True,True,4
+GS240-183,057-760-329-909-755.txt,True,True,False,True,False,True,True,3
+GS240-184,Schmidt 等 - 2024 - Development of mirror-image monobodies targeting the oncogenic BCRABL1 kinase.pdf,False,False,False,False,False,True,True,0
+GS240-185,153-389-246-102-696.txt,True,True,False,False,False,True,True,4
+GS240-186,112-538-680-276-399.txt,False,False,False,False,False,True,True,0
+GS240-187,Kimura 等 - 2009 - Engineered knottin peptides a new class of agents for imaging integrin expression in living subject.pdf,False,False,False,False,False,True,True,0
+GS240-188,056-132-088-745-417.txt,True,True,False,False,False,True,True,4
+GS240-189,057-760-329-909-755.txt,True,True,False,True,False,True,True,3
+GS240-190,Schmidt 等 - 2024 - Development of mirror-image monobodies targeting the oncogenic BCRABL1 kinase.pdf,False,False,False,False,False,True,True,0
+GS240-191,153-389-246-102-696.txt,True,True,False,False,False,True,True,4
+GS240-192,112-538-680-276-399.txt,False,False,False,False,False,True,True,0
+GS240-193,"Kimura 等 - 2009 - Engineered cystine knot peptides that bind alphavbeta3, alphavbeta5, and alpha5beta1 integrins with.pdf",False,False,False,False,False,True,True,0
+GS240-194,001-978-470-152-552.txt,True,True,False,True,False,True,True,4
+GS240-195,137-607-555-204-808.txt,False,False,False,False,False,False,False,0
+GS240-196,Schmidt 等 - 2024 - Development of mirror-image monobodies targeting the oncogenic BCRABL1 kinase.pdf,False,False,False,False,False,True,True,0
+GS240-197,153-389-246-102-696.txt,True,True,False,False,False,True,True,4
+GS240-198,112-538-680-276-399.txt,False,False,False,False,False,True,True,0
+GS240-199,"Kimura 等 - 2009 - Engineered cystine knot peptides that bind alphavbeta3, alphavbeta5, and alpha5beta1 integrins with.pdf",False,False,False,False,False,False,False,0
+GS240-200,181-655-656-741-313.txt,False,False,False,False,False,False,False,0
+GS240-201,059-519-326-775-546.txt,True,True,False,True,False,True,True,3
+GS240-202,Wensel 等 - 2017 - Discovery and characterization of a novel CD4-binding adnectin with potent anti-HIV activity.pdf,False,False,False,False,False,False,False,0
+GS240-203,104-887-839-080-060.txt,True,True,False,False,True,False,False,4
+GS240-204,112-538-680-276-399.txt,False,False,False,False,False,True,True,0
+GS240-205,"Kimura 等 - 2009 - Engineered cystine knot peptides that bind alphavbeta3, alphavbeta5, and alpha5beta1 integrins with.pdf",False,False,False,False,False,True,True,0
+GS240-206,041-120-869-884-580.txt,True,True,False,False,False,True,True,4
+GS240-207,059-519-326-775-546.txt,True,True,False,True,False,True,True,3
+GS240-208,Xiao 等 - 2013 - Antibody-mimetic ligand selected by mRNA display targets DC-SIGN for dendritic cell-directed antigen.pdf,False,False,False,False,False,False,False,0
+GS240-209,108-241-444-196-280.txt,True,True,False,False,False,True,True,4
+GS240-210,112-538-680-276-399.txt,False,False,False,False,False,True,True,0
+GS240-211,Jiang 等 - 2010 - Evaluation of a (64)Cu-labeled cystine-knot peptide based on agouti-related protein for PET of tumor.pdf,False,False,False,False,False,True,True,0
+GS240-212,056-785-885-842-461.txt,True,True,False,False,False,True,True,4
+GS240-213,059-519-326-775-546.txt,True,True,False,True,False,True,True,3
+GS240-214,Park 等 - 2015 - Isolation and characterization of a monobody with a fibronectin domain III scaffold that specificall.pdf,False,False,False,False,False,True,True,0
+GS240-215,177-654-556-260-062.txt,False,False,False,True,False,True,True,0
+GS240-216,112-538-680-276-399.txt,False,False,False,False,False,True,True,0
+GS240-217,Jiang 等 - 2010 - Evaluation of a (64)Cu-labeled cystine-knot peptide based on agouti-related protein for PET of tumor.pdf,False,False,False,False,False,True,True,0
+GS240-218,056-785-885-842-461.txt,True,True,False,False,False,True,True,4
+GS240-219,146-538-190-783-017.txt,True,True,True,False,True,True,False,4
+GS240-220,Park 等 - 2015 - Isolation and characterization of a monobody with a fibronectin domain III scaffold that specificall.pdf,False,False,False,False,False,True,True,0
+GS240-221,015-196-960-855-471.txt,True,True,False,True,False,False,False,2
+GS240-222,112-538-680-276-399.txt,False,False,False,False,False,True,True,0
+GS240-223,Jiang 等 - 2010 - Evaluation of a (64)Cu-labeled cystine-knot peptide based on agouti-related protein for PET of tumor.pdf,False,False,False,False,False,True,True,0
+GS240-224,056-785-885-842-461.txt,True,True,False,False,False,True,True,4
+GS240-225,146-538-190-783-017.txt,True,True,True,False,True,False,False,4
+GS240-226,Wensel 等 - 2018 - A novel gp41-binding adnectin with potent anti-HIV activity is highly synergistic when linked to a C.pdf,False,False,False,False,False,False,False,0
+GS240-227,055-789-819-229-759.txt,True,True,False,False,False,True,True,3
+GS240-228,112-538-680-276-399.txt,False,False,False,False,False,True,True,0
+GS240-229,Jiang 等 - 2010 - Evaluation of a (64)Cu-labeled cystine-knot peptide based on agouti-related protein for PET of tumor.pdf,False,False,False,False,False,True,True,0
+GS240-230,056-785-885-842-461.txt,True,True,False,True,False,True,True,4
+GS240-231,146-538-190-783-017.txt,True,True,True,False,True,True,False,4
+GS240-232,Han 等 - 2017 - Adnectin-based design of chimeric antigen receptor for T cell engineering.pdf,False,False,False,False,False,False,False,0
+GS240-233,055-789-819-229-759.txt,True,True,False,False,False,False,False,3
+GS240-234,112-538-680-276-399.txt,False,False,False,False,False,True,True,0
+GS240-235,Willmann 等 - 2010 - Targeted contrast-enhanced ultrasound imaging of tumor angiogenesis with contrast microbubbles conju.pdf,False,False,False,True,False,True,True,0
+GS240-236,056-785-885-842-461.txt,True,True,False,True,False,True,True,4
+GS240-237,146-538-190-783-017.txt,True,True,False,False,False,True,False,4
+GS240-238,Han 等 - 2017 - Adnectin-based design of chimeric antigen receptor for T cell engineering.pdf,False,False,False,False,False,True,True,0
+GS240-239,055-789-819-229-759.txt,True,True,True,False,False,False,False,3
+GS240-240,112-538-680-276-399.txt,False,False,False,False,False,True,True,0

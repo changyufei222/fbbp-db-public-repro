@@ -2,7 +2,7 @@
 
 Version: `v20261119`
 
-This package is the public, machine-readable reproducibility layer for FBBP-DB. It is deliberately separate from the private manuscript submission package.
+This repository provides the versioned, machine-readable reproducibility record for FBBP-DB.
 
 Repository: https://github.com/changyufei222/fbbp-db-public-repro
 
@@ -21,15 +21,9 @@ https://doi.org/10.5281/zenodo.20626952
 - `Repository_Files_FBBP_DB_v1_release/`: database tables, schemas, code, manifests, test data, release documentation, and the complete frozen ML release.
 - `MANIFEST_SHA256.csv`: checksums for every included file except the manifest itself.
 
-## Deliberately Excluded
+## Scope
 
-- Cover letter.
-- Unsubmitted manuscript DOCX.
-- Supplementary Information DOCX.
-- Submission workbook containing publication-formatted supplementary tables.
-- Rendered manuscript and supplementary figures.
-
-These files remain in the private submission package and must not be added to a public release before the authors approve public dissemination.
+The release contains machine-readable data, source data, schemas, analysis and recomputation code, manifests, and technical documentation.
 
 ## Reproducibility Notes
 

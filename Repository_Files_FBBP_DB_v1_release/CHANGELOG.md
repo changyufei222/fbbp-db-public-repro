@@ -2,7 +2,7 @@
 
 ## v20261119 - 2026-11-19
 
-- Synchronized the database data dictionary with the current submission package.
+- Synchronized the database data dictionary with the current release.
 - Added exact PCSK9/4OV6 atom-pair contact, per-residue ASA/ΔASA, loop-summary, and structure inputs.
 - Added deterministic recomputation and Figure S10D plotting scripts without manuscript-value constants.
 - Renamed the current companion figure to Figure S10 and retained the prior artwork only in Git history.

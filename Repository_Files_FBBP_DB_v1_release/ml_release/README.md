@@ -15,7 +15,7 @@ in the Briefings in Bioinformatics manuscript.
   7:3 views derived from the frozen ten-fold assignments.
 - `source_scripts/`: scripts used to construct and audit the released splits.
 
-## Integrity and scope
+## Integrity
 
 `MANIFEST_SHA256.csv` lists every file in this directory except the manifest
 itself. `ml_release_verified.json` records the primary object counts and split
@@ -24,6 +24,3 @@ crossing checks. Verification can be repeated from the public repository root:
 ```bash
 python Repository_Files_FBBP_DB_v1_release/scripts/validate_release.py
 ```
-
-The release contains machine-readable data and code only. Manuscript documents,
-the cover letter, the submission workbook, and rendered figures are excluded.
